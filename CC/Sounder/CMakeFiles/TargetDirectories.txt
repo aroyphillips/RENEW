@@ -1,0 +1,3 @@
+/home/royp/renew-software/CC/Sounder/CMakeFiles/rebuild_cache.dir
+/home/royp/renew-software/CC/Sounder/CMakeFiles/edit_cache.dir
+/home/royp/renew-software/CC/Sounder/CMakeFiles/sounder.dir
